@@ -3,11 +3,26 @@ img {
     height: auto;
 }
 
+.header {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: flex-end;
+}
 
+button {
+    padding: 2px;
+    margin: 5px;
+    align-self: center;
+    flex-direction: row;
+    justify-self: flex-end;
+    color: #e5e7eb;
+    background-color: #1f2937;
+}
 
-
-
-
+h4 {
+    margin-right: 320px;
+    
+}
 
 
 
