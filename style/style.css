@@ -88,6 +88,17 @@ h4 {
     max-width: 75px;
 }
 
+.base h2 {
+    display: flex;
+    max-width: 350px;
+    margin-left: 200px;
+    margin-top: 0px;
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
 
-
-
+.base h5 {
+    display: flex;
+    margin-left: 450px;
+    padding-bottom: 30px;
+}
